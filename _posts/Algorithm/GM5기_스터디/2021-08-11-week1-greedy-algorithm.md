@@ -11,6 +11,7 @@ tags: [baekjoon, cpp, greedy, study]
 - ~~[🥇5] [1461 - 도서관](https://www.acmicpc.net/problem/1461)~~ (통과 X)
 
 ---
+<br>
 
 ## **1. 설탕 배달**
 백준 로그를 보니 작년 이맘때쯤 한번 풀었던 문제였다.  
