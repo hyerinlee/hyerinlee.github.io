@@ -7,9 +7,9 @@ tags: [baekjoon, cpp, DP, study]
 
 ## **📝 문제 목록**
 - [🥉1] [2748 - 피보나치 수 2](https://www.acmicpc.net/problem/2748)
-- [-----] [11727 - 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
+- [🥈3] [11727 - 2×n 타일링 2](https://www.acmicpc.net/problem/11727)
 - [🥈1] [1149 - RGB거리](https://www.acmicpc.net/problem/1149)
-- ~~[-----] [17404 - RGB거리 2](https://www.acmicpc.net/problem/17404)~~ (통과 X)
+- ~~[🥇4] [17404 - RGB거리 2](https://www.acmicpc.net/problem/17404)~~ (통과 X)
 
 ---
 <br>
