@@ -1,7 +1,7 @@
 ---
 title: "Week3 - Binary Search, Two Pointer"
 date: 2021-08-22 15:10:00 +0900
-categories: [Algorithm, GM5기_스터디]
+categories: [Algorithm, GM5기_스터디_1]
 tags: [baekjoon, binary_search, cpp, study, two_pointer]
 ---
 

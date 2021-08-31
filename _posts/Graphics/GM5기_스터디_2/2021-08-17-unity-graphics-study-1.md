@@ -1,7 +1,7 @@
 ---
 title: "[Unity Graphics Study] 1. Particle System"
 date: 2021-08-17 15:23:00 +0900
-categories: [Graphics, GM5기_스터디]
+categories: [Graphics, GM5기_스터디_2]
 tags: [effect, study, unity]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Week1 - Greedy Algorithm"
 date: 2021-08-11 03:47:00 +0900
-categories: [Algorithm, GM5기_스터디]
+categories: [Algorithm, GM5기_스터디_1]
 tags: [baekjoon, cpp, greedy, study]
 ---
 

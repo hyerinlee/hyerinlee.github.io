@@ -1,7 +1,7 @@
 ---
 title: "Week2 - Simple DP"
 date: 2021-08-12 03:00:00 +0900
-categories: [Algorithm, GM5기_스터디]
+categories: [Algorithm, GM5기_스터디_1]
 tags: [baekjoon, cpp, DP, study]
 ---
 
