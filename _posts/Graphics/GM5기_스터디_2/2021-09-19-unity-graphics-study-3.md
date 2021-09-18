@@ -53,9 +53,10 @@ tags: [study, timeline, unity]
 
 ### **결과 영상**
 
-<iframe width="1148" height="646" src="https://www.youtube.com/embed/TnTzDNF2v6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="600" height="350" src="https://www.youtube.com/embed/TnTzDNF2v6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
+
 ---
 
 실습용이라 효과를 준 게 별로 없어서 너무 심플하긴 한데 여기에 이펙트같은 걸 넣어주면 나름 괜찮게 나온다. 뭐 인트로도 그렇고 보통 컷신이라고 하면 동영상이나 인게임 오브젝트를 이용해 만드는 경우가 많은 것 같다.  
