@@ -4,5 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
+# 🏆 BOJ Tier
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=herring)](https://solved.ac/herring/)

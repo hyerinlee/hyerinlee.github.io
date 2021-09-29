@@ -50,7 +50,6 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
 }
 
 /* --- Typography --- */
@@ -125,6 +124,8 @@ footer {
   bottom: 0;
   padding: 0 1rem;
   height: $footer-height;
+  font-family: 'Sriracha', cursive;
+  letter-spacing: -0.2px;
   font-size: 0.8rem;
   color: #7a7b7d;
   background-color: var(--footer-bg-color);
@@ -338,11 +339,20 @@ footer {
 
 /* --- post --- */
 
+#post-list .post-preview {
+  font-family: 'S-CoreDream-5Medium', cursive;
+}
+
 .pageviews .fa-spinner {
   font-size: 80%;
 }
 
 .post-meta {
+  &.text-muted {
+    font-family: 'Sriracha', cursive;
+    letter-spacing: -0.2px;
+  }
+
   font-size: 0.85rem;
   word-spacing: 1px;
   a {
@@ -358,7 +368,9 @@ footer {
 }
 
 .post-content {
-  font-size: 1.08rem;
+  transform:skew(-0.1deg);
+  font-family: 'NanumSquare', 'Microsoft Yahei', sans-serif;
+  font-size: 1rem;
   line-height: 1.8;
   margin-top: 2rem;
   overflow-wrap: break-word;
@@ -674,9 +686,10 @@ $sidebar-display: "sidebar-display";
 
   .site-title {
     a {
+      font-family: 'Oleo Script', cursive;
       font-weight: 900;
-      font-size: 1.5rem;
-      letter-spacing: 0.5px;
+      font-size: 1.7rem;
+      letter-spacing: -0.5px;
     }
   }
 
@@ -700,6 +713,7 @@ $sidebar-display: "sidebar-display";
   }
 
   .nav-item {
+    font-family: 'Ropa Sans', sans-serif;
     text-align: center;
     display: table;
     height: $tab-height;
@@ -1012,6 +1026,8 @@ $sidebar-display: "sidebar-display";
       @extend %no-bottom-border;
     }
   }
+
+  font-family: 'Lobster', cursive;
 }
 
 #mask {
@@ -1254,7 +1270,6 @@ $sidebar-display: "sidebar-display";
   }
 
   #page h1.dynamic-title {
-    display: none;
     ~ .post-content {
       margin-top: 3rem;
     }
@@ -1548,7 +1563,6 @@ $sidebar-display: "sidebar-display";
 
         a {
           font-size: 1.7rem;
-          letter-spacing: 1px;
         }
       }
 
